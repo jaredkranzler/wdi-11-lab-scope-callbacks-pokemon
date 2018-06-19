@@ -1,8 +1,10 @@
 ![ga](http://mobbook.generalassemb.ly/ga_cog.png)
 
+# wdi-cc2 _funky-ducks_
+
 <hr>
 Title: Pokeman Game<br>
-Type: Lab<br>
+Type: Lab/HW<br>
 Duration: 3 hr<br>
 Creator: WDI-Archer, WDI-Funke <br>
 Adapted + Modified by: Jim Haff<br>
@@ -15,7 +17,7 @@ Topics: Using objects, the keyword `this` and methods to create a game while foc
 
 You are going to create a simple card game in which a player will be able to battle the autoplayer. The game will keep an array of cards and will deal 3 as the autoplayer to "fight" against the three that you play. Each of your cards will have some values associated with it. You will have to compare the value of your card to the computer's card to see which one wins.
 
-Inside your folder for today, create a folder called `pokemon_card_app_lab` with our file structure.
+Inside your folder for today, create a folder called `pokemon_card_app_lab_` with our file structure.
 
 
 ## Object Oriented Programming
